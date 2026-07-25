@@ -29,12 +29,14 @@
 ## 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshiyasharma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=ffffff" alt="GitHub Stats" width="48%"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=arshiyasharma&theme=radical&hide_border=true&background=0d1117&stroke=ff1493&ring=ff1493&fire=ff1493&currStreakNum=ffffff&sideNums=ff1493&currStreakLabel=ff1493&sideLabels=ff1493" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=arshiyasharma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=ffffff" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arshiyasharma&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=ffffff" alt="Top Languages" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arshiyasharma&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=ffffff" alt="Top Languages" width="35%"/>
 </p>
 
 ---
