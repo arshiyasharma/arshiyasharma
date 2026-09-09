@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=arshiyasharma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=ffffff" alt="GitHub Stats" width="48%"/>
+  <!-- <img src="https://github-stats-extended.vercel.app/api?username=arshiyasharma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=ffffff" alt="GitHub Stats" width="48%"/> -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arshiyasharma&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=ffffff" alt="Top Languages" width="35%"/>
 </p>
 
